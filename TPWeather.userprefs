@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B8A4A5FF-8F74-427A-8516-4FEC22582583}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TPWeather/TPWeatherPage.xaml">
+    <Files>
+      <File FileName="TPWeather/TPWeatherPage.xaml.cs" Line="24" Column="36" />
+      <File FileName="TPWeather/TPWeatherPage.xaml" Line="9" Column="22" />
+      <File FileName="TPWeather/Weather.cs" Line="12" Column="37" />
+      <File FileName="TPWeather/WeatherTreatment.cs" Line="14" Column="32" />
+      <File FileName="TPWeather/Utils.cs" Line="10" Column="52" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TPWeather" expanded="True">
+            <Node name="TPWeather" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="TPWeatherPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="TPWeather.iOS" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.TPWeatherPage.xaml.g.cs" line="20" column="30" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TPWeather.Droid PreferredExecutionTarget="Android.Default" />
+  <MonoDevelop.Ide.ItemProperties.TPWeather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7B5D5212-7B28-4E2F-8A2F-07C15C9DA602" />
+</Properties>

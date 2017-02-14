@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:TPWeather" x:Class="TPWeather.TPWeatherPage" Title="TP Weather">
+	<ContentPage.Content Title="TP Weather">
+		 <ScrollView>
+			<StackLayout VerticalOptions="Center" Spacing="0">
+				<StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#666666" Padding="5, 5, 5, 5">
+					<Label Text="Search by Zip Code" HorizontalOptions="Center" TextColor="White"/>
+					<StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+						<Entry Placeholder="Place to find" VerticalOptions="Center" HorizontalOptions="Center" x:Name="cityEntry"/>
+						<Button Text="Search" x:Name="searchButton"/>
+					</StackLayout>
+				</StackLayout>
+				<StackLayout Padding="5, 5, 5, 5" HorizontalOptions="FillAndExpand" BackgroundColor="#A1A1A1" x:Name="resultLayout" IsVisible="true" VerticalOptions="Center"> 
+					<Label Text="Location" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="locationLabel" Text="{Binding Title}"/>
+					<Label Text="Temperature" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="temperatureLabel" Text="{Binding Temperature}"/>
+					<Label Text="Wind speed" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="windSpeedLabel" Text="{Binding Wind}"/>
+					<Label Text="Humidity" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="humidityLabel" Text="{Binding Humidity}"/>
+					<Label Text="Visibility" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="visibilityLabel" Text="{Binding Visibility}"/>
+					<Label Text="Time of sunrise" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="sunriseTimeLabel" Text="{Binding Sunrise}"/>
+					<Label Text="Time of sunset" Style="{StaticResource littleTitle}"/>
+					<Label Margin="10, 2, 2, 0" x:Name="sunsetTimeLabel" Text="{Binding Sunset}"/>
+				</StackLayout>
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+
+	<ContentPage.Resources>  
+		<ResourceDictionary>  
+	    	<Style x:Key="littleTitle" TargetType="Label">  
+	        	<Setter Property="TextColor" Value="#FFFFFF" />  
+	        	<Setter Property="FontSize" Value="Small"/>  
+	      	</Style>
+		</ResourceDictionary>
+	</ContentPage.Resources>
+</ContentPage>

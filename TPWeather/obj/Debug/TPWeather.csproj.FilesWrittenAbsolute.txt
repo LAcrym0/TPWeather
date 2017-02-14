@@ -1,0 +1,16 @@
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.App.xaml
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.TPWeatherPage.xaml
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.App.xaml.g.cs
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.TPWeatherPage.xaml.g.cs
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/TPWeather.dll.mdb
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/TPWeather.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/obj/Debug/TPWeather.dll.mdb
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/Newtonsoft.Json.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/System.Net.Http.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/System.Net.Http.Extensions.dll
+/Users/Grunt/Projects/TPWeather/TPWeather/bin/Debug/System.Net.Http.Primitives.dll

@@ -1,0 +1,16 @@
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/TPWeather.iOS.exe.mdb
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/TPWeather.iOS.exe
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/TPWeather.iOS.exe
+/Users/Grunt/Projects/TPWeather/iOS/obj/iPhoneSimulator/Debug/TPWeather.iOS.exe.mdb
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/TPWeather.dll
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/TPWeather.dll.mdb
+/Users/Grunt/Projects/TPWeather/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
